@@ -1,5 +1,5 @@
-A A I
-=====
+O A A I
+=======
 
 
 **NAME**
@@ -20,7 +20,6 @@ A A I
 
 
 **DESCRIPTION**
-
 
 ``oaai`` has all you need to program a unix cli program, such as disk
 perisistence for configuration files, event handler to handle the
